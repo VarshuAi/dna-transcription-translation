@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Renders DNA base sequences into RNA codons and amino acids.
+  name: dna-transcription-translation version: 1.0 type: Repository author: VarshuAi description: >   Renders DNA base sequences into RNA codons and amino acids. primary_tech: CSS
 primary_tech: CSS
 ```
 
